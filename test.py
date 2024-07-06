@@ -1,1 +1,1 @@
-print("hey buddy, am deb "
+print("hey buddy, am deb ")
